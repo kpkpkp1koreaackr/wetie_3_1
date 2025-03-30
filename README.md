@@ -15,6 +15,7 @@
 
 ##  결과
 - 학습 과정 중 MSE Loss가 꾸준히 감소
+![figure2](https://github.com/user-attachments/assets/b1f56ed5-d8e9-4104-a787-05d39c4a68d4)
 
-![regressionloss1](https://github.com/user-attachments/assets/204126fc-5ad9-4488-af65-8736b32aecd6)
+![regressionloss1](https://github.com/user-attachments/assets/204126fc-5ad9-4488-af65-8736b32aecd6)  
 
