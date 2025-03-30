@@ -7,11 +7,11 @@
 
 ##  사용 기술
 - Python, PyTorch, pandas, matplotlib
-- 회귀 문제로서 score 예측
+- 회귀 문제로서 score 득점 예측
 
 ##  관련 파일
 - `week2_regression.py`: 전체 코드
-- `log.csv`: 학습 데이터 (비공개일 경우 제외)
+- `log.csv`: 학습 데이터
 
 ##  결과
 - 학습 과정 중 MSE Loss가 꾸준히 감소
